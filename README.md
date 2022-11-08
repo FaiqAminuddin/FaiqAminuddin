@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaiqAminuddin
 - 👀 I’m interested in education system and technology
-- 🌱 I’m currently learning education system
+- 🌱 I’m currently learning about education system and technology
 - 💞️ I’m looking to collaborate on https://github.com/BlankOn
 - 📫 How to reach me? dampuawang@gmail.com 
 
